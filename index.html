@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Candidate information</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <form id="survey-form" class="survey-form">
+        <fieldset> 
+            <legend>Login details</legend>
+                <label for="fname-label">First Name <input id="fname" type="text" name="name" value="" required></label>
+                <label for="lname-label">Last Name <input id="lname" type="text" name="name" value="" required></label>
+                <label for="strname-label">Street <input id="strname" type="text" name="name" value="" required></label>
+                <label for="cname-label">City <input id="cname" type="text" name="name" value="" required></label>
+        </fieldset>
+        <br>
+        <fieldset>
+            <legend>Additional details</legend>
+            <label for="text">Biography <textarea id="text" name="biography" cols="10" rows="2"></textarea></label>
+            <label for="image-file label">Image <input id="image-file" type="file" name="image" placeholder="choose file" required> </label>
+            <label for="number-label"> Age Group <input id="number" type="number" name="age group" placeholder="0 to 9 Years" min="0" max="9"> </label>
+        </fieldset>
+        <br>
+        <fieldset>
+            <legend>Interest</legend>
+            <label for="hobbies">Hobbies 
+                <select id="dropdown" name="dropdown" size="4">
+                    <option value="">Playing Soccer</option>
+                    <option value="1">Dancing</option>
+                    <option value="2">Gardening</option>
+                    <option value="3">Watching movies</option>
+                    </select>
+            </label>
+            <label for="cars-label">Favourite Car?
+                <select class="arrows">
+                    <option value="Volvo">Volvo</option>
+                    <option value="SUV">SUV</option>
+                    <option value="Toyota Corola">Toyota Corola</option>
+                    <option value="Sport Car">Sport Car</option>
+                </select>
+            </label>
+            <label for="favourite">Favourite Public Transport?
+                <select id="dropdown" name="dropdown" size="4">
+                    <option value="">Ground</option>
+                    <option value="1">Train</option>
+                    <option value="2">Bus</option>
+                    <option value="3">Water</option>
+                    </select>
+            </label>
+        </fieldset>
+    </form>
+</body>
+</html>
