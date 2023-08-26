@@ -1,6 +1,6 @@
 # Form Candidate Transportation Details
 
-This is Candidate transportation details form [one of my training project with hertecttrail web-developer Starter]
+This is Candidate transportation details form [one of my training project with hertecttrail web-development Starter]
 
 # Table of content
 
@@ -63,5 +63,5 @@ This helpes me while I was brainstorming on how to set a wrapped fieldset elemen
 
 ### Aknowledgement
 
-I want to appreciate my mentor @princessmaggy for her apts, explanatory coaching and encouragement given to do better in the process of my training. I'm so glad to have learnt all that I have and I look forward to learn more. Thank you,coach.
+I want to appreciate my mentor @princessmaggy for her apts, explanatory coaching and encouragement given to do better in the process of my training. I'm so glad to have learned all that I have and I look forward to learn more. Thank you,coach.
 
