@@ -52,7 +52,7 @@ And having both up and down arrow in select input field using css styling.
 
 (https://stackoverflow.com/questions/52572821/how-to-make-both-up-down-arrow-in-select-input-field-in-css)
 
-This helpes me while I was brainstorming on how to set a wrapped fieldset element and how to have up and down arrow select input field.
+This helped me while I was brainstorming on how to set a wrapped fieldset element and how to have up and down arrow select input field.
 
 
 ### Author 
@@ -63,5 +63,5 @@ This helpes me while I was brainstorming on how to set a wrapped fieldset elemen
 
 ### Aknowledgement
 
-I want to appreciate my mentor @princessmaggy for her apts, explanatory coaching and encouragement given to do better in the process of my training. I'm so glad to have learned all that I have and I look forward to learn more. Thank you,coach.
+I want to appreciate my mentor @princessmaggy for her apts, explanatory coaching and encouragement during the process of my training. I'm so glad to have learned all that I have and I look forward to learn more. Thank you,coach.
 
