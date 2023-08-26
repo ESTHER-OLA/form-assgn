@@ -21,7 +21,7 @@ This is Candidate transportation details form [one of my training project with h
 Users should be able to:
 
 - Find the form interactive
-- should contain users details that they will be able to choose their choice deatils in the select field
+- should contain users details that they will be able to choose their choice details in the select field
 
 
 ### Links
@@ -41,7 +41,8 @@ I started this project by first writing the respective HTML codes and CSS stylin
 
 ### What I Learned 
 
-I practiced my knowledge of html and css in building an interactive form wrapped in different major parts of the form in <fieldset> elements giving each one it's own <legend>.
+I practiced my knowledge of html and css in building an interactive form wrapped in different major parts of the form in fieldset elements giving each one it's own legend.
+
 And having both up and down arrow in select input field using css styling.
 
 
@@ -62,5 +63,5 @@ This helpes me while I was brainstorming on how to set a wrapped fieldset elemen
 
 ### Aknowledgement
 
-I want to appreciate my mentor @princessmaggy for her apts and explanatory coaching and encouragement given to do better in the process of my training. I'm so glad to have learnt all that I have and I look forward to learn. Thank you,coach.
+I want to appreciate my mentor @princessmaggy for her apts, explanatory coaching and encouragement given to do better in the process of my training. I'm so glad to have learnt all that I have and I look forward to learn more. Thank you,coach.
 
